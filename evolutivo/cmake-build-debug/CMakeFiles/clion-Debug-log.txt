@@ -1,0 +1,24 @@
+"C:\Program Files\JetBrains\CLion 2023.2.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe" -G Ninja -S "C:\Users\andre\OneDrive\Ambiente de Trabalho\Faculdade\1º Semestre\IIA\Trabalho Pratico Meta 2\AndréDias_2021140917_JoãoPascoal_2017009420\evolutivo" -B "C:\Users\andre\OneDrive\Ambiente de Trabalho\Faculdade\1º Semestre\IIA\Trabalho Pratico Meta 2\AndréDias_2021140917_JoãoPascoal_2017009420\evolutivo\cmake-build-debug"
+-- The C compiler identification is GNU 13.1.0
+-- Detecting C compiler ABI info
+CMake Warning in C:/Users/andre/OneDrive/Ambiente de Trabalho/Faculdade/1º Semestre/IIA/Trabalho Pratico Meta 2/AndréDias_2021140917_JoãoPascoal_2017009420/evolutivo/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-5v0jzk/CMakeLists.txt:
+  The object file directory
+
+    C:/Users/andre/OneDrive/Ambiente de Trabalho/Faculdade/1º Semestre/IIA/Trabalho Pratico Meta 2/AndréDias_2021140917_JoãoPascoal_2017009420/evolutivo/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-5v0jzk/CMakeFiles/cmTC_295ae.dir/./
+
+  has 240 characters.  The maximum full path to an object file is 250
+  characters (see CMAKE_OBJECT_PATH_MAX).  Object file
+
+    CMakeCCompilerABI.c.obj
+
+  cannot be safely placed under this directory.  The build may not work
+  correctly.
+
+
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/gcc.exe - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Configuring done (2.7s)
+-- Generating done (0.0s)
+-- Build files have been written to: C:/Users/andre/OneDrive/Ambiente de Trabalho/Faculdade/1º Semestre/IIA/Trabalho Pratico Meta 2/AndréDias_2021140917_JoãoPascoal_2017009420/evolutivo/cmake-build-debug
